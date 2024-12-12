@@ -1,3 +1,3 @@
-conda remove -n eosc350 --all
-conda create -n eosc350 -y python=3.10
-conda env update -n eosc350 --file environment.yml
+conda remove -n envr420 --all
+conda create -n envr420 -y python=3.10
+conda env update -n envr420 --file environment.yml
