@@ -19,7 +19,7 @@ jobs:
         df -h
 
     - name: checkout files in repo
-      uses: actions/checkout@main
+      uses: actions/checkout@master
 
     - name: Build the image and push it if `NO_PUSH` disabled
       uses: jupyterhub/repo2docker-action@master
