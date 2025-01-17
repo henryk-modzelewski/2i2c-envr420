@@ -4,7 +4,7 @@ dependencies:
   - git
   - jupyter
   - nbgitpuller
-  - r-base=4.1
+  - r-base
   - r-ggplot2
   - r-dplyr
   - pip:
