@@ -7,5 +7,6 @@ dependencies:
   - r-base
   - r-ggplot2
   - r-dplyr
+  - r-tidyverse
   - pip:
     - nbconvert[webpdf]
