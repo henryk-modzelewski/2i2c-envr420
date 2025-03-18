@@ -1,19 +1,19 @@
 channels:
   - conda-forge
 dependencies:
+  - expat
+  - gdal
   - git
+  - gmp
   - jupyter
+  - mpfr
   - nbgitpuller
+  - proj
+  - udunits2
   - r-base
   - r-ggplot2
   - r-dplyr
-  - r-tidyverse
-  - udunits2
-  - expat
-  - gdal
-  - proj
-  - gmp
-  - mpfr
   - r-sf
+  - r-tidyverse
   - pip:
     - nbconvert[webpdf]
