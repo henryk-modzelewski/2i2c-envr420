@@ -8,5 +8,13 @@ dependencies:
   - r-ggplot2
   - r-dplyr
   - r-tidyverse
+  - udunits2
+  - expat
+  - gdal
+  - proj
+  - gmp
+  - mpfr
+  - r-sf
+
   - pip:
     - nbconvert[webpdf]
